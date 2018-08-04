@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 74f62a850ff3a8643b19dd4ca7a56591
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back_door
+    100002: corridor1:door_no_window
+    100004: corridor1:door_winow
+    100006: corridor1:school_door_frame
+    100008: corridor1:shool_door
+    100010: door_no_window
+    100012: door_no_window 1
+    100014: door_no_window 2
+    100016: door_no_window1
+    100018: door_no_window1 1
+    100020: door_no_window1 2
+    100022: door_no_window1 3
+    100024: door_winow
+    100026: door_winow 1
+    100028: door_winow 2
+    100030: door_winow 3
+    100032: door_winow 4
+    100034: door_winow 5
+    100036: door_winow 6
+    100038: doors
+    100040: doorsB:entryway_door
+    100042: doorsB:entryway_door1
+    100044: doorsB:frount_door
+    100046: doorsB:outside1:entryway_door
+    100048: doorsB:outside1:entryway_door1
+    100050: doorsB:outside1:entyrway_porch
+    100052: doorsB:outside1:roof_flat
+    100054: doorsB:outside1:school_door_frame1
+    100056: doorsB:outside:wood_windo1
+    100058: doorsB:polySurface1
+    100060: doorsB:polySurface2
+    100062: entryway_door
+    100064: entryway_door 1
+    100066: entryway_door1
+    100068: entryway_door1 1
+    100070: entryway_door2
+    100072: entryway_door3
+    100074: group1
+    100076: libery__door
+    100078: //RootNode
+    100080: school_door_frame
+    100082: school_door_frame 1
+    100084: school_door_frame 2
+    100086: school_door_frame 3
+    100088: school_door_frame 4
+    100090: school_door_frame 5
+    100092: school_door_frame 6
+    100094: school_door_frame1
+    100096: school_door_frame1 1
+    100098: school_inside
+    100100: school_outside
+    100102: shool_door
+    100104: shool_door1
+    100106: shool_door2
+    100108: shool_door3
+    100110: shool_door4
+    100112: shool_door7
+    100114: shool_door8
+    100116: door_no_window10
+    100118: door_no_window11
+    100120: door_no_window12
+    100122: door_no_window5
+    100124: door_no_window6
+    100126: door_no_window7
+    100128: door_no_window8
+    100130: door_no_window9
+    100132: door_winow10
+    100134: door_winow11
+    100136: door_winow4
+    100138: door_winow5
+    100140: door_winow6
+    100142: door_winow7
+    100144: door_winow8
+    100146: door_winow9
+    100148: pCube1
+    100150: pCube12
+    100152: pCube16
+    100154: pCube17
+    100156: pCube18
+    100158: pCube19
+    100160: pCube2
+    100162: pCube23
+    100164: pCube24
+    100166: pCube25
+    100168: pCube26
+    100170: pCube27
+    100172: pCube28
+    100174: pCube29
+    100176: pCube30
+    100178: pCube31
+    100180: pCube32
+    100182: pCube33
+    100184: pCube34
+    100186: pCube35
+    100188: pCube36
+    100190: pCube37
+    100192: pCube38
+    100194: pCube39
+    100196: pCube40
+    100198: pCube7
+    100200: pCube9
+    100202: polySurface1
+    100204: polySurface10
+    100206: polySurface11
+    100208: polySurface12
+    100210: polySurface13
+    100212: polySurface14
+    100214: polySurface15
+    100216: polySurface16
+    100218: polySurface17
+    100220: polySurface18
+    100222: polySurface19
+    100224: polySurface2
+    100226: polySurface20
+    100228: polySurface21
+    100230: polySurface22
+    100232: polySurface23
+    100234: polySurface24
+    100236: polySurface25
+    100238: polySurface26
+    100240: polySurface26 1
+    100242: polySurface27
+    100244: polySurface28
+    100246: polySurface3
+    100248: polySurface4
+    100250: polySurface5
+    100252: polySurface6
+    100254: polySurface7
+    100256: polySurface8
+    100258: polySurface9
+    100260: school_door_frame10
+    100262: school_door_frame11
+    100264: school_door_frame12
+    100266: school_door_frame5
+    100268: school_door_frame6
+    100270: school_door_frame7
+    100272: school_door_frame8
+    100274: school_door_frame9
+    100276: shool_door13
+    100278: transform10
+    100280: transform11
+    100282: transform12
+    100284: transform13
+    100286: transform14
+    100288: transform15
+    100290: transform16
+    100292: transform17
+    100294: transform18
+    100296: transform19
+    100298: transform20
+    100300: transform21
+    100302: transform22
+    100304: transform23
+    100306: transform24
+    100308: transform25
+    100310: transform26
+    100312: transform27
+    100314: transform28
+    100316: transform29
+    100318: transform3
+    100320: transform30
+    100322: transform31
+    100324: transform32
+    100326: transform4
+    100328: transform5
+    100330: transform6
+    100332: transform7
+    100334: transform8
+    100336: transform9
+    100338: wood_windo10
+    100340: wood_windo10 1
+    100342: wood_windo11
+    100344: wood_windo12
+    100346: wood_windo13
+    100348: wood_windo14
+    100350: wood_windo15
+    100352: wood_windo16
+    100354: wood_windo16 1
+    100356: wood_windo17
+    100358: wood_windo18
+    100360: wood_windo19
+    100362: wood_windo20
+    100364: wood_windo21
+    100366: wood_windo22
+    100368: wood_windo5
+    100370: wood_windo9
+    100372: class_rooms
+    100374: door_no_window13
+    100376: door_no_window14
+    100378: entryway_door4
+    100380: entryway_door5
+    100382: pCube43
+    100384: pCube44
+    100386: pCube45
+    100388: pCube46
+    100390: pCube47
+    100392: pCube48
+    100394: pCube49
+    100396: pCube50
+    100398: pCube53
+    100400: pCube53_e_2_
+    100402: pCube54
+    100404: pCube55
+    100406: polySurface30
+    100408: polySurface32
+    100410: polySurface33
+    100412: wood_windo23
+    100414: wood_windo24
+    100416: wood_windo24 1
+    100418: wood_windo25
+    100420: wood_windo26
+    100422: wood_windo27
+    100424: wood_windo28
+    100426: wood_windo29
+    100428: wood_windo30
+    100430: wood_windo31
+    100432: wood_windo32
+    100434: wood_windo33
+    100436: wood_windo34
+    100438: wood_windo35
+    100440: wood_windo36
+    100442: wood_windo36 1
+    100444: wood_windo37
+    100446: wood_windo38
+    100448: wood_windo39
+    100450: wood_windo40
+    100452: wood_windo41
+    100454: wood_windo42
+    100456: wood_windo43
+    100458: roof1
+    400000: back_door
+    400002: corridor1:door_no_window
+    400004: corridor1:door_winow
+    400006: corridor1:school_door_frame
+    400008: corridor1:shool_door
+    400010: door_no_window
+    400012: door_no_window 1
+    400014: door_no_window 2
+    400016: door_no_window1
+    400018: door_no_window1 1
+    400020: door_no_window1 2
+    400022: door_no_window1 3
+    400024: door_winow
+    400026: door_winow 1
+    400028: door_winow 2
+    400030: door_winow 3
+    400032: door_winow 4
+    400034: door_winow 5
+    400036: door_winow 6
+    400038: doors
+    400040: doorsB:entryway_door
+    400042: doorsB:entryway_door1
+    400044: doorsB:frount_door
+    400046: doorsB:outside1:entryway_door
+    400048: doorsB:outside1:entryway_door1
+    400050: doorsB:outside1:entyrway_porch
+    400052: doorsB:outside1:roof_flat
+    400054: doorsB:outside1:school_door_frame1
+    400056: doorsB:outside:wood_windo1
+    400058: doorsB:polySurface1
+    400060: doorsB:polySurface2
+    400062: entryway_door
+    400064: entryway_door 1
+    400066: entryway_door1
+    400068: entryway_door1 1
+    400070: entryway_door2
+    400072: entryway_door3
+    400074: group1
+    400076: libery__door
+    400078: //RootNode
+    400080: school_door_frame
+    400082: school_door_frame 1
+    400084: school_door_frame 2
+    400086: school_door_frame 3
+    400088: school_door_frame 4
+    400090: school_door_frame 5
+    400092: school_door_frame 6
+    400094: school_door_frame1
+    400096: school_door_frame1 1
+    400098: school_inside
+    400100: school_outside
+    400102: shool_door
+    400104: shool_door1
+    400106: shool_door2
+    400108: shool_door3
+    400110: shool_door4
+    400112: shool_door7
+    400114: shool_door8
+    400116: door_no_window10
+    400118: door_no_window11
+    400120: door_no_window12
+    400122: door_no_window5
+    400124: door_no_window6
+    400126: door_no_window7
+    400128: door_no_window8
+    400130: door_no_window9
+    400132: door_winow10
+    400134: door_winow11
+    400136: door_winow4
+    400138: door_winow5
+    400140: door_winow6
+    400142: door_winow7
+    400144: door_winow8
+    400146: door_winow9
+    400148: pCube1
+    400150: pCube12
+    400152: pCube16
+    400154: pCube17
+    400156: pCube18
+    400158: pCube19
+    400160: pCube2
+    400162: pCube23
+    400164: pCube24
+    400166: pCube25
+    400168: pCube26
+    400170: pCube27
+    400172: pCube28
+    400174: pCube29
+    400176: pCube30
+    400178: pCube31
+    400180: pCube32
+    400182: pCube33
+    400184: pCube34
+    400186: pCube35
+    400188: pCube36
+    400190: pCube37
+    400192: pCube38
+    400194: pCube39
+    400196: pCube40
+    400198: pCube7
+    400200: pCube9
+    400202: polySurface1
+    400204: polySurface10
+    400206: polySurface11
+    400208: polySurface12
+    400210: polySurface13
+    400212: polySurface14
+    400214: polySurface15
+    400216: polySurface16
+    400218: polySurface17
+    400220: polySurface18
+    400222: polySurface19
+    400224: polySurface2
+    400226: polySurface20
+    400228: polySurface21
+    400230: polySurface22
+    400232: polySurface23
+    400234: polySurface24
+    400236: polySurface25
+    400238: polySurface26
+    400240: polySurface26 1
+    400242: polySurface27
+    400244: polySurface28
+    400246: polySurface3
+    400248: polySurface4
+    400250: polySurface5
+    400252: polySurface6
+    400254: polySurface7
+    400256: polySurface8
+    400258: polySurface9
+    400260: school_door_frame10
+    400262: school_door_frame11
+    400264: school_door_frame12
+    400266: school_door_frame5
+    400268: school_door_frame6
+    400270: school_door_frame7
+    400272: school_door_frame8
+    400274: school_door_frame9
+    400276: shool_door13
+    400278: transform10
+    400280: transform11
+    400282: transform12
+    400284: transform13
+    400286: transform14
+    400288: transform15
+    400290: transform16
+    400292: transform17
+    400294: transform18
+    400296: transform19
+    400298: transform20
+    400300: transform21
+    400302: transform22
+    400304: transform23
+    400306: transform24
+    400308: transform25
+    400310: transform26
+    400312: transform27
+    400314: transform28
+    400316: transform29
+    400318: transform3
+    400320: transform30
+    400322: transform31
+    400324: transform32
+    400326: transform4
+    400328: transform5
+    400330: transform6
+    400332: transform7
+    400334: transform8
+    400336: transform9
+    400338: wood_windo10
+    400340: wood_windo10 1
+    400342: wood_windo11
+    400344: wood_windo12
+    400346: wood_windo13
+    400348: wood_windo14
+    400350: wood_windo15
+    400352: wood_windo16
+    400354: wood_windo16 1
+    400356: wood_windo17
+    400358: wood_windo18
+    400360: wood_windo19
+    400362: wood_windo20
+    400364: wood_windo21
+    400366: wood_windo22
+    400368: wood_windo5
+    400370: wood_windo9
+    400372: class_rooms
+    400374: door_no_window13
+    400376: door_no_window14
+    400378: entryway_door4
+    400380: entryway_door5
+    400382: pCube43
+    400384: pCube44
+    400386: pCube45
+    400388: pCube46
+    400390: pCube47
+    400392: pCube48
+    400394: pCube49
+    400396: pCube50
+    400398: pCube53
+    400400: pCube53_e_2_
+    400402: pCube54
+    400404: pCube55
+    400406: polySurface30
+    400408: polySurface32
+    400410: polySurface33
+    400412: wood_windo23
+    400414: wood_windo24
+    400416: wood_windo24 1
+    400418: wood_windo25
+    400420: wood_windo26
+    400422: wood_windo27
+    400424: wood_windo28
+    400426: wood_windo29
+    400428: wood_windo30
+    400430: wood_windo31
+    400432: wood_windo32
+    400434: wood_windo33
+    400436: wood_windo34
+    400438: wood_windo35
+    400440: wood_windo36
+    400442: wood_windo36 1
+    400444: wood_windo37
+    400446: wood_windo38
+    400448: wood_windo39
+    400450: wood_windo40
+    400452: wood_windo41
+    400454: wood_windo42
+    400456: wood_windo43
+    400458: roof1
+    2100000: lambert1
+    2100002: doorsB_outside1_roof
+    2100004: doorsB_outside_glass2
+    2100006: doorsB_outside_old_wood
+    2100008: corridor_soft_wood
+    2100010: doorsB_outside1_old_wood
+    2100012: doorsB_outside1_glass2
+    2100014: corridor1_soft_wood
+    2100016: doorsB_outside1_outside_wall
+    2100018: basic_metal_cream
+    2100020: corrugated_iron_yellow
+    2100022: roof
+    2100024: glass
+    2100026: old_wood
+    2100028: lambert8
+    2100030: lambert2
+    2100032: lambert9
+    2100034: Default_Material
+    2100036: walls
+    2100038: wood_flors
+    2100040: lambert14
+    2100042: marblel
+    2300000: corridor1:door_no_window
+    2300002: corridor1:door_winow
+    2300004: corridor1:school_door_frame
+    2300006: door_no_window
+    2300008: door_no_window 1
+    2300010: door_no_window 2
+    2300012: door_no_window1
+    2300014: door_no_window1 1
+    2300016: door_no_window1 2
+    2300018: door_no_window1 3
+    2300020: door_winow
+    2300022: door_winow 1
+    2300024: door_winow 2
+    2300026: door_winow 3
+    2300028: door_winow 4
+    2300030: door_winow 5
+    2300032: door_winow 6
+    2300034: doorsB:entryway_door
+    2300036: doorsB:entryway_door1
+    2300038: doorsB:outside1:entryway_door
+    2300040: doorsB:outside1:entryway_door1
+    2300042: doorsB:outside1:entyrway_porch
+    2300044: doorsB:outside1:roof_flat
+    2300046: doorsB:outside1:school_door_frame1
+    2300048: doorsB:outside:wood_windo1
+    2300050: doorsB:polySurface1
+    2300052: doorsB:polySurface2
+    2300054: entryway_door
+    2300056: entryway_door 1
+    2300058: entryway_door1
+    2300060: entryway_door1 1
+    2300062: entryway_door2
+    2300064: entryway_door3
+    2300066: school_door_frame
+    2300068: school_door_frame 1
+    2300070: school_door_frame 2
+    2300072: school_door_frame 3
+    2300074: school_door_frame 4
+    2300076: school_door_frame 5
+    2300078: school_door_frame 6
+    2300080: school_door_frame1
+    2300082: school_door_frame1 1
+    2300084: school_inside
+    2300086: school_outside
+    2300088: door_no_window10
+    2300090: door_no_window11
+    2300092: door_no_window12
+    2300094: door_no_window5
+    2300096: door_no_window6
+    2300098: door_no_window7
+    2300100: door_no_window8
+    2300102: door_no_window9
+    2300104: door_winow10
+    2300106: door_winow11
+    2300108: door_winow4
+    2300110: door_winow5
+    2300112: door_winow6
+    2300114: door_winow7
+    2300116: door_winow8
+    2300118: door_winow9
+    2300120: pCube1
+    2300122: pCube12
+    2300124: pCube16
+    2300126: pCube17
+    2300128: pCube2
+    2300130: pCube23
+    2300132: pCube24
+    2300134: pCube25
+    2300136: pCube26
+    2300138: pCube29
+    2300140: pCube30
+    2300142: pCube31
+    2300144: pCube32
+    2300146: pCube33
+    2300148: pCube34
+    2300150: pCube35
+    2300152: pCube36
+    2300154: pCube37
+    2300156: pCube38
+    2300158: pCube39
+    2300160: pCube40
+    2300162: pCube7
+    2300164: pCube9
+    2300166: polySurface1
+    2300168: polySurface10
+    2300170: polySurface12
+    2300172: polySurface14
+    2300174: polySurface16
+    2300176: polySurface19
+    2300178: polySurface2
+    2300180: polySurface20
+    2300182: polySurface23
+    2300184: polySurface25
+    2300186: polySurface28
+    2300188: polySurface3
+    2300190: polySurface4
+    2300192: polySurface6
+    2300194: polySurface8
+    2300196: school_door_frame10
+    2300198: school_door_frame11
+    2300200: school_door_frame12
+    2300202: school_door_frame5
+    2300204: school_door_frame6
+    2300206: school_door_frame7
+    2300208: school_door_frame8
+    2300210: school_door_frame9
+    2300212: wood_windo12
+    2300214: wood_windo15
+    2300216: wood_windo19
+    2300218: wood_windo20
+    2300220: wood_windo21
+    2300222: wood_windo22
+    2300224: class_rooms
+    2300226: door_no_window13
+    2300228: door_no_window14
+    2300230: entryway_door4
+    2300232: entryway_door5
+    2300234: pCube43
+    2300236: pCube44
+    2300238: pCube45
+    2300240: pCube46
+    2300242: pCube47
+    2300244: pCube48
+    2300246: pCube49
+    2300248: pCube50
+    2300250: pCube54
+    2300252: pCube55
+    2300254: polySurface32
+    2300256: polySurface33
+    2300258: wood_windo17
+    2300260: wood_windo18
+    2300262: wood_windo24
+    2300264: wood_windo38
+    2300266: wood_windo39
+    2300268: wood_windo40
+    2300270: wood_windo41
+    2300272: wood_windo42
+    2300274: wood_windo43
+    2300276: roof1
+    3300000: corridor1:door_no_window
+    3300002: corridor1:door_winow
+    3300004: corridor1:school_door_frame
+    3300006: door_no_window
+    3300008: door_no_window 1
+    3300010: door_no_window 2
+    3300012: door_no_window1
+    3300014: door_no_window1 1
+    3300016: door_no_window1 2
+    3300018: door_no_window1 3
+    3300020: door_winow
+    3300022: door_winow 1
+    3300024: door_winow 2
+    3300026: door_winow 3
+    3300028: door_winow 4
+    3300030: door_winow 5
+    3300032: door_winow 6
+    3300034: doorsB:entryway_door
+    3300036: doorsB:entryway_door1
+    3300038: doorsB:outside1:entryway_door
+    3300040: doorsB:outside1:entryway_door1
+    3300042: doorsB:outside1:entyrway_porch
+    3300044: doorsB:outside1:roof_flat
+    3300046: doorsB:outside1:school_door_frame1
+    3300048: doorsB:outside:wood_windo1
+    3300050: doorsB:polySurface1
+    3300052: doorsB:polySurface2
+    3300054: entryway_door
+    3300056: entryway_door 1
+    3300058: entryway_door1
+    3300060: entryway_door1 1
+    3300062: entryway_door2
+    3300064: entryway_door3
+    3300066: school_door_frame
+    3300068: school_door_frame 1
+    3300070: school_door_frame 2
+    3300072: school_door_frame 3
+    3300074: school_door_frame 4
+    3300076: school_door_frame 5
+    3300078: school_door_frame 6
+    3300080: school_door_frame1
+    3300082: school_door_frame1 1
+    3300084: school_inside
+    3300086: school_outside
+    3300088: door_no_window10
+    3300090: door_no_window11
+    3300092: door_no_window12
+    3300094: door_no_window5
+    3300096: door_no_window6
+    3300098: door_no_window7
+    3300100: door_no_window8
+    3300102: door_no_window9
+    3300104: door_winow10
+    3300106: door_winow11
+    3300108: door_winow4
+    3300110: door_winow5
+    3300112: door_winow6
+    3300114: door_winow7
+    3300116: door_winow8
+    3300118: door_winow9
+    3300120: pCube1
+    3300122: pCube12
+    3300124: pCube16
+    3300126: pCube17
+    3300128: pCube2
+    3300130: pCube23
+    3300132: pCube24
+    3300134: pCube25
+    3300136: pCube26
+    3300138: pCube29
+    3300140: pCube30
+    3300142: pCube31
+    3300144: pCube32
+    3300146: pCube33
+    3300148: pCube34
+    3300150: pCube35
+    3300152: pCube36
+    3300154: pCube37
+    3300156: pCube38
+    3300158: pCube39
+    3300160: pCube40
+    3300162: pCube7
+    3300164: pCube9
+    3300166: polySurface1
+    3300168: polySurface10
+    3300170: polySurface12
+    3300172: polySurface14
+    3300174: polySurface16
+    3300176: polySurface19
+    3300178: polySurface2
+    3300180: polySurface20
+    3300182: polySurface23
+    3300184: polySurface25
+    3300186: polySurface28
+    3300188: polySurface3
+    3300190: polySurface4
+    3300192: polySurface6
+    3300194: polySurface8
+    3300196: school_door_frame10
+    3300198: school_door_frame11
+    3300200: school_door_frame12
+    3300202: school_door_frame5
+    3300204: school_door_frame6
+    3300206: school_door_frame7
+    3300208: school_door_frame8
+    3300210: school_door_frame9
+    3300212: wood_windo12
+    3300214: wood_windo15
+    3300216: wood_windo19
+    3300218: wood_windo20
+    3300220: wood_windo21
+    3300222: wood_windo22
+    3300224: class_rooms
+    3300226: door_no_window13
+    3300228: door_no_window14
+    3300230: entryway_door4
+    3300232: entryway_door5
+    3300234: pCube43
+    3300236: pCube44
+    3300238: pCube45
+    3300240: pCube46
+    3300242: pCube47
+    3300244: pCube48
+    3300246: pCube49
+    3300248: pCube50
+    3300250: pCube54
+    3300252: pCube55
+    3300254: polySurface32
+    3300256: polySurface33
+    3300258: wood_windo17
+    3300260: wood_windo18
+    3300262: wood_windo24
+    3300264: wood_windo38
+    3300266: wood_windo39
+    3300268: wood_windo40
+    3300270: wood_windo41
+    3300272: wood_windo42
+    3300274: wood_windo43
+    3300276: roof1
+    4300000: school_outside
+    4300002: doorsB:polySurface1
+    4300004: doorsB:outside1:roof_flat
+    4300006: doorsB:polySurface2
+    4300008: doorsB:outside:wood_windo1
+    4300010: school_inside
+    4300012: school_door_frame1
+    4300014: entryway_door
+    4300016: entryway_door1
+    4300018: entryway_door2
+    4300020: entryway_door3
+    4300022: school_door_frame
+    4300024: door_winow
+    4300026: door_no_window1
+    4300028: school_door_frame
+    4300030: door_winow
+    4300032: door_no_window1
+    4300034: school_door_frame
+    4300036: door_winow
+    4300038: door_no_window1
+    4300040: school_door_frame
+    4300042: door_winow
+    4300044: door_no_window1
+    4300046: school_door_frame
+    4300048: door_no_window
+    4300050: door_winow
+    4300052: school_door_frame
+    4300054: door_no_window
+    4300056: door_winow
+    4300058: school_door_frame
+    4300060: door_winow
+    4300062: door_no_window
+    4300064: doorsB:outside1:school_door_frame1
+    4300066: doorsB:outside1:entryway_door
+    4300068: doorsB:outside1:entryway_door1
+    4300070: doorsB:entryway_door1
+    4300072: doorsB:entryway_door
+    4300074: doorsB:outside1:entyrway_porch
+    4300076: corridor1:school_door_frame
+    4300078: corridor1:door_no_window
+    4300080: corridor1:door_winow
+    4300082: entryway_door
+    4300084: school_door_frame1
+    4300086: entryway_door1
+    4300088: wood_windo15
+    4300090: wood_windo19
+    4300092: wood_windo20
+    4300094: wood_windo21
+    4300096: wood_windo22
+    4300098: polySurface1
+    4300100: polySurface2
+    4300102: polySurface3
+    4300104: door_no_window5
+    4300106: door_winow4
+    4300108: school_door_frame5
+    4300110: school_door_frame6
+    4300112: door_winow5
+    4300114: door_no_window6
+    4300116: school_door_frame7
+    4300118: door_winow6
+    4300120: door_no_window7
+    4300122: door_winow7
+    4300124: door_no_window8
+    4300126: school_door_frame8
+    4300128: door_no_window9
+    4300130: door_winow8
+    4300132: school_door_frame9
+    4300134: door_no_window10
+    4300136: door_winow9
+    4300138: school_door_frame10
+    4300140: school_door_frame11
+    4300142: door_no_window11
+    4300144: door_winow10
+    4300146: school_door_frame12
+    4300148: door_winow11
+    4300150: door_no_window12
+    4300152: pCube1
+    4300154: pCube2
+    4300156: pCube7
+    4300158: pCube9
+    4300160: pCube12
+    4300162: pCube16
+    4300164: pCube17
+    4300166: pCube23
+    4300168: pCube24
+    4300170: pCube25
+    4300172: pCube26
+    4300174: pCube29
+    4300176: pCube30
+    4300178: pCube31
+    4300180: pCube32
+    4300182: pCube33
+    4300184: pCube34
+    4300186: pCube35
+    4300188: pCube36
+    4300190: wood_windo12
+    4300192: polySurface4
+    4300194: polySurface6
+    4300196: polySurface8
+    4300198: polySurface10
+    4300200: polySurface12
+    4300202: polySurface14
+    4300204: polySurface16
+    4300206: polySurface19
+    4300208: polySurface20
+    4300210: polySurface23
+    4300212: polySurface25
+    4300214: polySurface28
+    4300216: pCube37
+    4300218: pCube38
+    4300220: pCube39
+    4300222: pCube40
+    4300224: polySurface32
+    4300226: polySurface33
+    4300228: wood_windo17
+    4300230: wood_windo18
+    4300232: wood_windo38
+    4300234: wood_windo39
+    4300236: wood_windo40
+    4300238: wood_windo41
+    4300240: wood_windo42
+    4300242: wood_windo43
+    4300244: entryway_door4
+    4300246: entryway_door5
+    4300248: door_no_window13
+    4300250: door_no_window14
+    4300252: pCube43
+    4300254: pCube44
+    4300256: pCube45
+    4300258: pCube46
+    4300260: pCube47
+    4300262: pCube48
+    4300264: pCube49
+    4300266: pCube50
+    4300268: wood_windo24
+    4300270: class_rooms
+    4300272: pCube54
+    4300274: pCube55
+    4300276: roof1
+    6400000: corridor1:door_no_window
+    6400002: corridor1:door_winow
+    6400004: corridor1:school_door_frame
+    6400006: door_no_window
+    6400008: door_no_window 1
+    6400010: door_no_window 2
+    6400012: door_no_window1
+    6400014: door_no_window1 1
+    6400016: door_no_window1 2
+    6400018: door_no_window1 3
+    6400020: door_winow
+    6400022: door_winow 1
+    6400024: door_winow 2
+    6400026: door_winow 3
+    6400028: door_winow 4
+    6400030: door_winow 5
+    6400032: door_winow 6
+    6400034: doorsB:entryway_door
+    6400036: doorsB:entryway_door1
+    6400038: doorsB:outside1:entryway_door
+    6400040: doorsB:outside1:entryway_door1
+    6400042: doorsB:outside1:entyrway_porch
+    6400044: doorsB:outside1:roof_flat
+    6400046: doorsB:outside1:school_door_frame1
+    6400048: doorsB:outside:wood_windo1
+    6400050: doorsB:polySurface1
+    6400052: doorsB:polySurface2
+    6400054: entryway_door
+    6400056: entryway_door 1
+    6400058: entryway_door1
+    6400060: entryway_door1 1
+    6400062: entryway_door2
+    6400064: entryway_door3
+    6400066: school_door_frame
+    6400068: school_door_frame 1
+    6400070: school_door_frame 2
+    6400072: school_door_frame 3
+    6400074: school_door_frame 4
+    6400076: school_door_frame 5
+    6400078: school_door_frame 6
+    6400080: school_door_frame1
+    6400082: school_door_frame1 1
+    6400084: school_inside
+    6400086: school_outside
+    6400088: door_no_window10
+    6400090: door_no_window11
+    6400092: door_no_window12
+    6400094: door_no_window5
+    6400096: door_no_window6
+    6400098: door_no_window7
+    6400100: door_no_window8
+    6400102: door_no_window9
+    6400104: door_winow10
+    6400106: door_winow11
+    6400108: door_winow4
+    6400110: door_winow5
+    6400112: door_winow6
+    6400114: door_winow7
+    6400116: door_winow8
+    6400118: door_winow9
+    6400120: pCube1
+    6400122: pCube12
+    6400124: pCube16
+    6400126: pCube17
+    6400128: pCube2
+    6400130: pCube23
+    6400132: pCube24
+    6400134: pCube25
+    6400136: pCube26
+    6400138: pCube29
+    6400140: pCube30
+    6400142: pCube31
+    6400144: pCube32
+    6400146: pCube33
+    6400148: pCube34
+    6400150: pCube35
+    6400152: pCube36
+    6400154: pCube37
+    6400156: pCube38
+    6400158: pCube39
+    6400160: pCube40
+    6400162: pCube7
+    6400164: pCube9
+    6400166: polySurface1
+    6400168: polySurface10
+    6400170: polySurface12
+    6400172: polySurface14
+    6400174: polySurface16
+    6400176: polySurface19
+    6400178: polySurface2
+    6400180: polySurface20
+    6400182: polySurface23
+    6400184: polySurface25
+    6400186: polySurface28
+    6400188: polySurface3
+    6400190: polySurface4
+    6400192: polySurface6
+    6400194: polySurface8
+    6400196: school_door_frame10
+    6400198: school_door_frame11
+    6400200: school_door_frame12
+    6400202: school_door_frame5
+    6400204: school_door_frame6
+    6400206: school_door_frame7
+    6400208: school_door_frame8
+    6400210: school_door_frame9
+    6400212: wood_windo12
+    6400214: wood_windo15
+    6400216: wood_windo19
+    6400218: wood_windo20
+    6400220: wood_windo21
+    6400222: wood_windo22
+    6400224: class_rooms
+    6400226: door_no_window13
+    6400228: door_no_window14
+    6400230: entryway_door4
+    6400232: entryway_door5
+    6400234: pCube43
+    6400236: pCube44
+    6400238: pCube45
+    6400240: pCube46
+    6400242: pCube47
+    6400244: pCube48
+    6400246: pCube49
+    6400248: pCube50
+    6400250: pCube54
+    6400252: pCube55
+    6400254: polySurface32
+    6400256: polySurface33
+    6400258: wood_windo17
+    6400260: wood_windo18
+    6400262: wood_windo24
+    6400264: wood_windo38
+    6400266: wood_windo39
+    6400268: wood_windo40
+    6400270: wood_windo41
+    6400272: wood_windo42
+    6400274: wood_windo43
+    6400276: roof1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

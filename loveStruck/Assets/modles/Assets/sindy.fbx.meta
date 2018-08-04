@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 7da06b1c03e4e0642b306d749729a569
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: book_bag:book_bag
+    100004: bow
+    100006: dress
+    100008: ears
+    100010: eyeR
+    100012: hair
+    100014: head
+    100016: head 1
+    100018: leg_wamer
+    100020: leg_wamer1
+    100022: playerjumper1:QuickRigCharacter_Head
+    100024: playerjumper1:QuickRigCharacter_LeftArm
+    100026: playerjumper1:QuickRigCharacter_LeftFoot
+    100028: playerjumper1:QuickRigCharacter_LeftForeArm
+    100030: playerjumper1:QuickRigCharacter_LeftHand
+    100032: playerjumper1:QuickRigCharacter_LeftLeg
+    100034: playerjumper1:QuickRigCharacter_LeftShoulder
+    100036: playerjumper1:QuickRigCharacter_LeftToeBase
+    100038: playerjumper1:QuickRigCharacter_LeftUpLeg
+    100040: playerjumper1:QuickRigCharacter_Neck
+    100042: playerjumper1:QuickRigCharacter_RightArm
+    100044: playerjumper1:QuickRigCharacter_RightFoot
+    100046: playerjumper1:QuickRigCharacter_RightForeArm
+    100048: playerjumper1:QuickRigCharacter_RightHand
+    100050: playerjumper1:QuickRigCharacter_RightLeg
+    100052: playerjumper1:QuickRigCharacter_RightShoulder
+    100054: playerjumper1:QuickRigCharacter_RightToeBase
+    100056: playerjumper1:QuickRigCharacter_RightUpLeg
+    100058: playerjumper1:QuickRigCharacter_Spine
+    100060: playerjumper1:QuickRigCharacter_Spine1
+    100062: playerjumper1:QuickRigCharacter_Spine2
+    100064: playerjumper:shooe_r
+    100066: shooe_r
+    100068: //RootNode
+    100070: sindy
+    100072: sindys_rig
+    100074: underpants
+    400000: body
+    400002: book_bag:book_bag
+    400004: bow
+    400006: dress
+    400008: ears
+    400010: eyeR
+    400012: hair
+    400014: head
+    400016: head 1
+    400018: leg_wamer
+    400020: leg_wamer1
+    400022: playerjumper1:QuickRigCharacter_Head
+    400024: playerjumper1:QuickRigCharacter_LeftArm
+    400026: playerjumper1:QuickRigCharacter_LeftFoot
+    400028: playerjumper1:QuickRigCharacter_LeftForeArm
+    400030: playerjumper1:QuickRigCharacter_LeftHand
+    400032: playerjumper1:QuickRigCharacter_LeftLeg
+    400034: playerjumper1:QuickRigCharacter_LeftShoulder
+    400036: playerjumper1:QuickRigCharacter_LeftToeBase
+    400038: playerjumper1:QuickRigCharacter_LeftUpLeg
+    400040: playerjumper1:QuickRigCharacter_Neck
+    400042: playerjumper1:QuickRigCharacter_RightArm
+    400044: playerjumper1:QuickRigCharacter_RightFoot
+    400046: playerjumper1:QuickRigCharacter_RightForeArm
+    400048: playerjumper1:QuickRigCharacter_RightHand
+    400050: playerjumper1:QuickRigCharacter_RightLeg
+    400052: playerjumper1:QuickRigCharacter_RightShoulder
+    400054: playerjumper1:QuickRigCharacter_RightToeBase
+    400056: playerjumper1:QuickRigCharacter_RightUpLeg
+    400058: playerjumper1:QuickRigCharacter_Spine
+    400060: playerjumper1:QuickRigCharacter_Spine1
+    400062: playerjumper1:QuickRigCharacter_Spine2
+    400064: playerjumper:shooe_r
+    400066: shooe_r
+    400068: //RootNode
+    400070: sindy
+    400072: sindys_rig
+    400074: underpants
+    2100000: sindys_clours
+    2100002: book_bag_lambert2
+    2100004: sindy_eye
+    4300000: ears
+    4300002: body
+    4300004: dress
+    4300006: underpants
+    4300008: shooe_r
+    4300010: leg_wamer
+    4300012: playerjumper:shooe_r
+    4300014: leg_wamer1
+    4300016: book_bag:book_bag
+    4300018: bow
+    4300020: hair
+    4300022: eyeR
+    4300024: head
+    9500000: //RootNode
+    13700000: body
+    13700002: book_bag:book_bag
+    13700004: bow
+    13700006: dress
+    13700008: ears
+    13700010: eyeR
+    13700012: hair
+    13700014: head 1
+    13700016: leg_wamer
+    13700018: leg_wamer1
+    13700020: playerjumper:shooe_r
+    13700022: shooe_r
+    13700024: underpants
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
