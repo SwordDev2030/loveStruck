@@ -4,26 +4,27 @@ using UnityEngine;
 
 public class playerControl : MonoBehaviour
 {
-    public float MovementSpeed,JumpForce,gravityForce;
-    public CharacterController ThePlayerC;
-    private Vector3 moveDir;
-    void Update()
+    public float MoveSpeed =4,JumpForce,GravityScale=10,turnSpeed=10;
+    public CharacterController playerContoler;
+    public Animator Ani;
+    Vector3 MoveD;
+    public Transform pivot;
+
+    private void Update()
     {
-        #region movement
-        //moveDir = new Vector3(Input.GetAxis("Horizontal") *MovementSpeed,moveDir.y,Input.GetAxis("Vertical") *MovementSpeed);
-        float YStore = moveDir.y;
-        moveDir = (transform.forward* Input.GetAxis("Vertical"))+(transform.right*Input.GetAxis("Horizontal"));
-        moveDir = moveDir.normalized*MovementSpeed;
-        moveDir.y = YStore;
-        if (ThePlayerC.isGrounded)
+        MoveD = (transform.forward* Input.GetAxis("Vertical")) + (transform.right*Input.GetAxis("Horizontal"));
+        MoveD = MoveD.normalized*MoveSpeed;
+        if(playerContoler.isGrounded && Input.GetButton("Jump")) MoveD.y = JumpForce;
+        MoveD.y = MoveD.y + (Physics.gravity.y*GravityScale);
+        playerContoler.Move(MoveD*Time.deltaTime);
+        if(Input.GetAxis("Vertical") != 0|| Input.GetAxis("Horizontal") !=0)
         {
-            moveDir.y = 0;
-            if(Input.GetButtonDown("Jump")) moveDir.y = JumpForce;
+            transform.rotation = Quaternion.Euler(0f, pivot.rotation.eulerAngles.y, 0f);
+            Quaternion newRotation = Quaternion.LookRotation(new Vector3(MoveD.x,0f,MoveD.z));
         }
-        moveDir.y = moveDir.y + (Physics.gravity.y*gravityForce);
-        ThePlayerC.Move(moveDir*Time.deltaTime);
-        #endregion
-
+         Ani.SetBool("isGrounded",playerContoler.isGrounded);
+         Ani.SetFloat("Speed",(Mathf.Abs(Input.GetAxis("Vertical")))+ (Mathf.Abs(Input.GetAxis("Horizontal"))));
+       
     }
-
+  
 }
